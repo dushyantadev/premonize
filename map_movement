@@ -1,4 +1,6 @@
 # map the movement horoscope owner to apply change to radix.
+char newloc{
+            }
 
 
 # add the degree mechanism. forked?
